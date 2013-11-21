@@ -1,0 +1,91 @@
+<html><head><title>Resultados</title>
+<link href='http://fonts.googleapis.com/css?family=Ribeye' rel='stylesheet'type='text/css'><style type="text/css">
+body{background-color:#C45008;font-family: 'Piedar', cursive;}
+input.button_add {
+    background-image: url(/home/vero/progra4/views/images/twitter-logo.jpg); /* 16px x 16px */
+    background-color: transparent; /* make the button transparent */
+    background-repeat: no-repeat;  /* make the background image appear only once */
+    background-position: 0px 0px;  /* equivalent to 'top left' */
+    border: none;           /* assuming we don't want any borders */
+    cursor: pointer;        /* make the cursor like hovering over an <a> element */
+    height: 16px;           /* make this the size of your image */
+    padding-left: 16px;     /* make text start to the right of the image */
+    vertical-align: middle; /* align the text vertically centered */
+}
+#borde{background-color:#C45008;height: 5px;}
+table{font-family: 'Piedar', cursive;padding: 10px;}</style></head><body>
+<form action="/form" method="post">
+<div id="borde" ALIGN=rigth></div><table ALIGN=center>
+<tr><td ALIGN=rigth><font color=#FDFFFF><h1>reggae</h1></td>
+<input type="button" value="Add a new row" class="button_add" />
+</tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: Big Dummies Blues Band</td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: "I&#39;m Just A Closet Dancer Of Rock n Roll"</td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url:"http://bigdummiesbluesband.bandcamp.com/track/im-just-a-closet-dancer-of-rock-n-roll" </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: Square Songs</td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: "Lost, Tossed, Rare, Square, Scrapped And Crapped... 1"</td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url:"http://squaresongs1.bandcamp.com/album/lost-tossed-rare-square-scrapped-and-crapped-1" </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: David Brown</td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: "Babylon"</td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url:"http://daveyb.bandcamp.com/album/babylon" </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: DISGROOVE</td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: "DISGROOVE - Three"</td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url:"http://n-gageproductions.bandcamp.com/album/disgroove-three" </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: Square Songs</td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: "The Essentials: Volume 3"</td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url:"http://squaresongs1.bandcamp.com/album/the-essentials-volume-3" </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: KBong</td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: "We Had"</td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url:"http://kbong.bandcamp.com/track/we-had" </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: Keo &amp; The Movement</td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: "Keo And The Movement E.P."</td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url:"http://keoandthemovement.bandcamp.com/album/keo-and-the-movement-e-p" </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: Dubzoic</td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: "Feel Complete EP"</td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url:"http://irieonair.bandcamp.com/album/feel-complete-ep" </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: NASA</td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: "Well well (what do we have here?)"</td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url:"http://nasaband.bandcamp.com/track/well-well-what-do-we-have-here-2" </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: Reuben Stone</td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: "DOWNLOADS FROM THE UNIVURSE E.P"</td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url:"http://reubenstone.bandcamp.com/album/downloads-from-the-univurse-e-p" </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>

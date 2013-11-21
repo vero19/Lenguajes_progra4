@@ -1,0 +1,94 @@
+<html><head><title>Resultados</title>
+<link href='http://fonts.googleapis.com/css?family=Ribeye' rel='stylesheet' type='text/css'>
+<style type="text/css">
+
+
+#borde{
+	background-color:#C45008;
+	height: 5px;
+}
+
+table{
+	font-family: 'Piedra', cursive;
+	padding: 10px;}
+</style>
+
+</head>
+<body>
+<form action="/form" method="post">
+<div id="borde" ALIGN=rigth></div>
+<table ALIGN=center>
+<tr><td ALIGN=rigth><font color=#FDFFFF><h1>Rock</h1></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: </td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: </td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: </td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: </td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: </td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: </td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: </td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: </td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: </td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr><td ALIGN=rigth width="800" height="20"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Grupo: </td></tr>
+<tr bgcolor=#FFFFFF ><td ALIGN=rigth width="800" height="30">Album: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Gratuito o pago </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="30">Url: </td></tr>
+<tr bgcolor=#FFFFFF><td ALIGN=rigth width="800" height="10"></td></tr>
+</table>
+</form>
+</body>
+</html>

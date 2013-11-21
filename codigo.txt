@@ -1,0 +1,1011 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html   xmlns:og="http://opengraphprotocol.org/schema/"
+        xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+    <title>Tag &quot;Pop&quot; | Bandcamp</title>
+    
+    
+
+
+ 
+    <meta name="Description" content="
+See all artists, albums, and tracks tagged with &quot;Pop&quot; on Bandcamp.
+">
+    
+     
+    
+    <link rel="shortcut icon" href="http://s0.bcbits.com/img/bc_favicon.ico">
+    <link rel="apple-touch-icon" href="http://s0.bcbits.com/img/bc_favicon.ico">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!--<meta name="apple-mobile-web-app-status-bar-style" content="black translucent">-->
+    
+    
+    
+    
+     
+
+    
+    
+        <link type="text/css" rel="stylesheet" href="http://s0.bcbits.com/tmpdata/cache/global_bundle_ca46bdfb622a5e53e0948ec5c6a9090c.css">
+    
+    
+
+    <script type="text/javascript">
+        var isDebug = false;
+        var ErrorCollector = {"sampleRate":null,"enabled":true};
+        var CfgShare2 = true; // fixme: remove after Share2 always on
+    </script>
+
+    
+
+
+<script type="text/javascript">
+    
+    var isDebug = false;
+    var siteroot = "http://bandcamp.com";
+    var siteroot_https = "https://bandcamp.com";
+    var siteroot_current = "http://bandcamp.com";
+    var band_url = null;
+    var isProduction = true;
+
+    
+    document.documentElement.className += " js";
+    
+    
+    var Browser = {"mobile_app_compatible":false,"make":null,"platform_name":"","platform_closed":false,"type":null,"media_mode":"desktop","grade":"X","platform":null,"version":[-1]};    
+
+    
+    var TemplGlobals = {"custom_domains_active":true,"sitedomain":"bandcamp.com","siteroot":"http://bandcamp.com","siteroot_https":"https://bandcamp.com","image_formats":[{"name":"original","id":0,"resize_algo":"original","file_format":null},{"name":"fullsize","id":1,"resize_algo":"scrub","file_format":"original"},{"height":350,"name":"art_thumb","id":2,"resize_algo":"thumb","width":350,"file_format":"JPEG"},{"height":100,"name":"art_thumbthumb","id":3,"resize_algo":"thumb","width":100,"file_format":"JPEG"},{"height":300,"name":"art_embedded_metadata","id":4,"resize_algo":"thumb","width":300,"file_format":"JPEG"},{"height":700,"name":"art_embedded_metadata_large","id":5,"resize_algo":"thumb","width":700,"file_format":"JPEG"},{"height":100,"name":"art_embedded_player","id":6,"resize_algo":"thumb","width":100,"file_format":"JPEG"},{"height":150,"name":"art_embedded_player_large","id":7,"resize_algo":"thumb","width":150,"file_format":"JPEG"},{"height":124,"name":"art_tags","id":8,"resize_algo":"thumb","width":124,"file_format":"JPEG"},{"height":210,"name":"art_tags_large","id":9,"resize_algo":"thumb","width":210,"file_format":"JPEG"},{"height":1200,"name":"screen","id":10,"resize_algo":"fit","width":1200,"file_format":"JPEG"},{"height":135,"name":"art_feed_new_release","id":15,"resize_algo":"thumb","width":135,"file_format":"JPEG"},{"height":1024,"name":"bio_screen","id":20,"resize_algo":"fit","width":1024,"file_format":"JPEG"},{"height":180,"name":"bio_thumb","id":21,"resize_algo":"fit","width":120,"file_format":"JPEG"},{"height":25,"name":"bio_navbar","id":22,"resize_algo":"thumb","width":25,"file_format":"JPEG"},{"height":300,"name":"bio_phone","id":23,"resize_algo":"fit","width":300,"file_format":"JPEG"},{"height":300,"name":"bio_licensing","id":24,"resize_algo":"thumb","width":300,"file_format":"JPEG"},{"height":1024,"name":"package_screen","id":31,"resize_algo":"fit","width":1024,"file_format":"original"},{"height":300,"name":"package_page","id":36,"resize_algo":"thumb","width":400,"file_format":"JPEG"},{"height":126,"name":"package_thumb","id":37,"resize_algo":"thumb","width":168,"file_format":"JPEG"},{"height":210,"name":"fan_bio_thumb","id":41,"resize_algo":"thumb","width":210,"file_format":"JPEG"},{"height":50,"name":"fan_bio_thumb_small","id":42,"resize_algo":"thumb","width":50,"file_format":"JPEG"},{"height":100,"name":"fan_banner","id":43,"resize_algo":"fit","width":99999,"file_format":"JPEG"},{"height":140,"name":"results_grid","id":50,"resize_algo":"thumb","width":140,"file_format":"JPEG"},{"name":"custom_header_desktop","max_height":180,"id":100,"resize_algo":"thumb","width":975,"file_format":"original"},{"height":90,"name":"custom_header_paypal","id":101,"resize_algo":"fit","width":750,"file_format":"JPEG"},{"name":"custom_header_phone","max_height":124,"id":120,"resize_algo":"thumb","width":640,"file_format":"JPEG"}],"is_https":false,"image_siteroot":"http://f0.bcbits.com","static_siteroot":"http://s0.bcbits.com","siteroot_current":"http://bandcamp.com","image_siteroot_https":"https://f0.bcbits.com","base_port_str":null};
+
+    var JSLoader = {
+        currentset : { foot: [] },
+
+        writeScriptTags: function( section ) {
+            var libs = JSLoader.currentset[ section ];
+            if ( !libs ) 
+                throw "couldn't find js section: " + section;
+            for ( var i=0; i < libs.length; i++ ) {
+                document.write( '<script type="text/javascript" src="' + libs[i] + '"><\/s' + 'cript>' );
+            }
+        },
+        
+        requireJS : function(src) {
+            if(typeof(src) == "string")
+            {
+                JSLoader._addRequire(src);
+            }
+            else
+            {
+                for(var i=0; i<src.length; i++)
+                {
+                    JSLoader._addRequire(src[i]);
+                }
+            }
+        },
+        
+        _addRequire : function(src) {
+            var libs = JSLoader.currentset.foot;
+            for(var i=0; i<libs.length; i++)
+            {
+                if(libs[i] == src) return;
+            }
+            libs.push( src );
+        }
+    };
+
+</script>  
+
+<script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/global_head_bundle_3f0122f6d3f24804dd4adf559eb9d89c.js"></script>
+
+
+
+
+    
+
+    
+        
+
+    <script type="text/javascript">
+        (function(){
+            function snickerdoodle(which) {
+                var pairs = document.cookie.split(/;\s*/);
+                for (var i = 0; i < pairs.length; ++i) {
+                    var pair = pairs[i].split("=");
+                    if (pair[0] == which) {
+                        return pair[1];
+                    }
+                }
+                return null;
+            }
+
+
+            // pull id out of the cookies
+            window.ClientID = snickerdoodle("client_id");
+
+        })();
+    </script>
+
+
+        <script type="text/javascript">
+            if ( window.MediaView ) {
+             
+                MediaView.init(null);
+            
+            }
+
+            var gCrumb = null;
+            var _crumbs = {};
+            var UploadInfo = null;
+            
+            Control.registerEvents();
+            Control.registerController( "/no_js", TPController );
+        </script>
+    
+
+    
+    
+    
+
+    
+    
+    
+    
+    <!--@@PAGEBUCKETS@@-->
+</head>
+
+
+<body class="widebody ">
+
+    <div id="pagedata" data-blob="{&quot;is_admin&quot;:null}"></div>
+
+
+
+
+
+<div id="centerWrapper">
+    <div id="propOpenWrapper">
+        
+            <div id="pgHdWrapper">
+                <div id="pgHd" class="fattyNav">
+                
+<div id="fattyContent">
+<a id="fattyLogo" href="http://bandcamp.com"><img src="http://s0.bcbits.com/img/logowhite_med.png" alt="home"></a>
+
+<form id="fattySearch" action="/search" method="get">
+    <input name="q" type="text" size="32" maxlength="2048" autocomplete="off">
+    <button type="submit" value="Search">Search</button>
+</form>
+</div>
+
+                </div>
+            </div>
+        
+        
+
+    
+    
+    
+
+    
+
+        <div id="pgBd" class="yui-skin-sam">
+            
+
+
+<style>
+.discover_suggestion {
+    background: #fbf693;
+    padding: 10px 10px 10px 10px;
+    width: 685px;
+    color: #595959;
+    clear: both;
+    font-size: 14px;
+    margin: 0 0 10px;
+}
+.discover_suggestion a {
+    font-weight: bold;
+}
+.discover_suggestion .subtext {
+    margin: .3em 0 0 0;
+    font-size:12px;
+}
+</style>
+
+
+
+<div class="tags" id="content">
+
+
+    <div class="discover_suggestion">
+        Don’t miss <a href="/?g=pop&amp;from=tagsbanner">the new Bandcamp.com, a great way to discover the latest pop music &raquo;</a>
+        <div class="subtext">Listen to our weekly show, browse best-sellers, new releases, artist recommendations, vinyl, and more.</div>
+    </div>
+
+
+    <div class="toparea">
+        <div class="leftcolumn box">
+            <h1>Pop</h1><div class="browselink"><a href="/tags?from=tpall">browse all tags</a></div>
+        </div>
+    </div>
+    <div class="leftcolumn box">
+        
+
+        
+
+            <div class="results_area divider">
+                    
+                <div class="sort_controls">
+                    sort by:
+                    <ul id="sortNav" class="horizNav">
+                    <li>
+<a href="?sort_field=pop">popularity</a>
+</li>
+                    <li>
+newness
+</li>
+                    
+                    </ul>
+                </div>
+
+                <div class="results">
+                <ul class="item_list">
+                    <li class="item">
+    
+
+
+        <a href="http://localbluesheeps.bandcamp.com/album/-" title="むすんで">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2796778808_8.jpg"></div>
+            <div class="itemtext">むすんで</div>
+        
+            <div class="itemsubtext">Local Blue Sheeps</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://patrickedene.bandcamp.com/album/ethiquement-v-tre" title="Ethiquement vôtre">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2774575462_8.jpg"></div>
+            <div class="itemtext">Ethiquement vôtre</div>
+        
+            <div class="itemsubtext">Patrick Edène</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://withoutmyhatrecords.bandcamp.com/album/back-to-basics" title="Back to Basics">
+            <div><img class="art" src="http://f0.bcbits.com/img/a1144058674_8.jpg"></div>
+            <div class="itemtext">Back to Basics</div>
+        
+            <div class="itemsubtext">Nine O&#39;Nine</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://lastofsongs.bandcamp.com/track/willow-weep-for-me" title="Willow Weep For Me">
+            <div><img class="art" src="http://f0.bcbits.com/img/a3283274234_8.jpg"></div>
+            <div class="itemtext">Willow Weep For Me</div>
+        
+            <div class="itemsubtext">Irit Dekel &amp; Eldad Zitrin</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://limwoojin.bandcamp.com/track/she-doesnt-know" title="She Doesn&#39;t Know">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2542887618_8.jpg"></div>
+            <div class="itemtext">She Doesn&#39;t Know</div>
+        
+            <div class="itemsubtext">Limw Woojin</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://mariegarg.bandcamp.com/album/die-h-lfte-von-nix" title="Die Hälfte Von Nix">
+            <div><img class="art" src="http://f0.bcbits.com/img/a4042763564_8.jpg"></div>
+            <div class="itemtext">Die Hälfte Von Nix</div>
+        
+            <div class="itemsubtext">MarieGarg</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://citizogic.bandcamp.com/album/random" title="Random">
+            <div><img class="art" src="http://f0.bcbits.com/img/a3466837379_8.jpg"></div>
+            <div class="itemtext">Random</div>
+        
+            <div class="itemsubtext">iii</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://iiivibes.bandcamp.com/album/random" title="Random">
+            <div><img class="art" src="http://f0.bcbits.com/img/a4031875452_8.jpg"></div>
+            <div class="itemtext">Random</div>
+        
+            <div class="itemsubtext">iii</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://wearetrick.bandcamp.com/track/who-you" title="Who You?">
+            <div><img class="art" src="http://f0.bcbits.com/img/a3605668131_8.jpg"></div>
+            <div class="itemtext">Who You?</div>
+        
+            <div class="itemsubtext">Trick</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://delvinopunk.bandcamp.com/album/e-p-2013" title="e.p 2013">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2922995255_8.jpg"></div>
+            <div class="itemtext">e.p 2013</div>
+        
+            <div class="itemsubtext">DELVINO</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://hometown.bandcamp.com/album/open-sea" title="Open Sea">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2189400950_8.jpg"></div>
+            <div class="itemtext">Open Sea</div>
+        
+            <div class="itemsubtext">HOMETOWN</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://livingstonedaisies.bandcamp.com/album/power-pop-double-shot-feat-livingstone-daisies-the-grapes" title="“Power Pop Double Shot” feat. Livingstone Daisies &amp; The Grapes">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2710231002_8.jpg"></div>
+            <div class="itemtext">“Power Pop Double Shot” feat. Livingstone Daisies &amp; The Grapes</div>
+        
+            <div class="itemsubtext">LIVINGSTONE DAISIES</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://fopmusic.bandcamp.com/track/more-than-just-a-friend" title="More than just a friend">
+            <div><img class="art" src="http://f0.bcbits.com/img/a1407495145_8.jpg"></div>
+            <div class="itemtext">More than just a friend</div>
+        
+            <div class="itemsubtext">fopmusic</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://revelationkollektiv.bandcamp.com/album/what-has-happened-to-all-that-beauty" title="What has happened to all that Beauty?">
+            <div><img class="art" src="http://f0.bcbits.com/img/a1598394616_8.jpg"></div>
+            <div class="itemtext">What has happened to all that Beauty?</div>
+        
+            <div class="itemsubtext">Ornette D Clennon</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://chrisjoerningason.bandcamp.com/album/think-about-you" title="Think About You">
+            <div><img class="art" src="http://f0.bcbits.com/img/a0840331170_8.jpg"></div>
+            <div class="itemtext">Think About You</div>
+        
+            <div class="itemsubtext">Chris Jörn Ingasson</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://membershipband.bandcamp.com/track/northern-wind-album-trailer" title="Northern Wind Album Trailer">
+            <div><img class="art" src="http://f0.bcbits.com/img/a3797595335_8.jpg"></div>
+            <div class="itemtext">Northern Wind Album Trailer</div>
+        
+            <div class="itemsubtext">Membership</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://stellaielsatoms.bandcamp.com/album/feet-in-pink-powder" title="feet in pink powder">
+            <div><img class="art" src="http://f0.bcbits.com/img/a3387722302_8.jpg"></div>
+            <div class="itemtext">feet in pink powder</div>
+        
+            <div class="itemsubtext">stella i els atoms</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://fictionstheband.bandcamp.com/album/sleep-right" title="Sleep Right">
+            <div><img class="art" src="http://f0.bcbits.com/img/a4047917701_8.jpg"></div>
+            <div class="itemtext">Sleep Right</div>
+        
+            <div class="itemsubtext">Fictions</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://alhovden.bandcamp.com/track/at-christmas-time" title="At Christmas Time">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2774953902_8.jpg"></div>
+            <div class="itemtext">At Christmas Time</div>
+        
+            <div class="itemsubtext">Al Hovden</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://whitaker.bandcamp.com/album/wichita-ep" title="Wichita - EP">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2251860451_8.jpg"></div>
+            <div class="itemtext">Wichita - EP</div>
+        
+            <div class="itemsubtext">Whitaker</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://julianares.bandcamp.com/album/nidos" title="Nidos">
+            <div><img class="art" src="http://f0.bcbits.com/img/a3973615433_8.jpg"></div>
+            <div class="itemtext">Nidos</div>
+        
+            <div class="itemsubtext">Julián Ares</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://johnrhythm.bandcamp.com/album/change-me-christian-cover-songs" title="CHANGE ME (Christian Cover Songs)">
+            <div><img class="art" src="http://f0.bcbits.com/img/a3944485793_8.jpg"></div>
+            <div class="itemtext">CHANGE ME (Christian Cover Songs)</div>
+        
+            <div class="itemsubtext">JohnRhythm</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://music.oneeyeddoll.com/album/be-my-friend" title="Be My Friend">
+            <div><img class="art" src="http://f0.bcbits.com/img/a1087532854_8.jpg"></div>
+            <div class="itemtext">Be My Friend</div>
+        
+            <div class="itemsubtext">One-Eyed Doll</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://atlanticdriftwood.bandcamp.com/album/shifts" title="Shifts">
+            <div><img class="art" src="http://f0.bcbits.com/img/a4041774973_8.jpg"></div>
+            <div class="itemtext">Shifts</div>
+        
+            <div class="itemsubtext">Atlantic Driftwood</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://wearebears.bandcamp.com/album/burrito-palace" title="BURRITO PALACE">
+            <div><img class="art" src="http://f0.bcbits.com/img/a0841335176_8.jpg"></div>
+            <div class="itemtext">BURRITO PALACE</div>
+        
+            <div class="itemsubtext">Bears</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://latetealenvers.bandcamp.com/album/la-t-te-lenvers" title="La Tête à l&#39;Envers">
+            <div><img class="art" src="http://f0.bcbits.com/img/a0102105777_8.jpg"></div>
+            <div class="itemtext">La Tête à l&#39;Envers</div>
+        
+            <div class="itemsubtext">La Tête à l&#39;Envers</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://gentlemansvibe.bandcamp.com/track/royals-remix-w-chantelle-prod-azel-north" title="Royals (Remix) w/ Chantelle (Prod. Azel North)">
+            <div><img class="art" src="http://f0.bcbits.com/img/a0622907842_8.jpg"></div>
+            <div class="itemtext">Royals (Remix) w/ Chantelle (Prod. Azel North)</div>
+        
+            <div class="itemsubtext">Gentleman&#39;s Vibe, Chantelle Truong</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://cernickapeter.bandcamp.com/album/rad-ej-si-zaspievam" title="Radšej si zaspievam">
+            <div><img class="art" src="http://f0.bcbits.com/img/a0812450805_8.jpg"></div>
+            <div class="itemtext">Radšej si zaspievam</div>
+        
+            <div class="itemsubtext">ČePE MUSIC</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://mulanserrico.bandcamp.com/track/mass" title="MASS">
+            <div><img class="art" src="http://f0.bcbits.com/img/a3045134673_8.jpg"></div>
+            <div class="itemtext">MASS</div>
+        
+            <div class="itemsubtext">Mulan Serrico</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://cultfluorescent.bandcamp.com/album/rare-elvis-demos" title="Rare Elvis Demos">
+            <div><img class="art" src="http://f0.bcbits.com/img/a0324843422_8.jpg"></div>
+            <div class="itemtext">Rare Elvis Demos</div>
+        
+            <div class="itemsubtext">Cult Fluorescent</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://johnlyons69.bandcamp.com/album/sing-me-another-song" title="Sing Me Another Song">
+            <div><img class="art" src="http://f0.bcbits.com/img/a3635838350_8.jpg"></div>
+            <div class="itemtext">Sing Me Another Song</div>
+        
+            <div class="itemsubtext">John Lyons</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://studioslm.bandcamp.com/track/thought-invasion-free-download" title="Thought Invasion  **Free Download**">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2950235189_8.jpg"></div>
+            <div class="itemtext">Thought Invasion  **Free Download**</div>
+        
+            <div class="itemsubtext">SLM</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://studioslm.bandcamp.com/track/it-beats-the-truth-free-download" title="It Beats The Truth  **Free Download**">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2564313026_8.jpg"></div>
+            <div class="itemtext">It Beats The Truth  **Free Download**</div>
+        
+            <div class="itemsubtext">SLM</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://texevans.bandcamp.com/album/insanity-gone-mad" title="Insanity Gone Mad">
+            <div><img class="art" src="http://f0.bcbits.com/img/a2870965912_8.jpg"></div>
+            <div class="itemtext">Insanity Gone Mad</div>
+        
+            <div class="itemsubtext">Tex</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://flyhighmuzik.bandcamp.com/track/lay-you-down-damn-it" title="Lay you down (Damn it)">
+            <div><img class="art" src="http://f0.bcbits.com/img/a0756316800_8.jpg"></div>
+            <div class="itemtext">Lay you down (Damn it)</div>
+        
+            <div class="itemsubtext">Nako &amp; J-Klipse</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://louisvilleisforlovers.bandcamp.com/album/we-wont-make-it" title="We Won&#39;t Make It">
+            <div><img class="art" src="http://f0.bcbits.com/img/a1712907027_8.jpg"></div>
+            <div class="itemtext">We Won&#39;t Make It</div>
+        
+            <div class="itemsubtext">The Gallery Singers At The Electric Church Of The Tambourine</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://andrewdavidv.bandcamp.com/album/the-starry-eyed-kid-in-the-corner" title="The Starry-Eyed Kid In The Corner">
+            <div><img class="art" src="http://f0.bcbits.com/img/a1665893027_8.jpg"></div>
+            <div class="itemtext">The Starry-Eyed Kid In The Corner</div>
+        
+            <div class="itemsubtext">AndrewDavidV</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://louiezong.bandcamp.com/album/at-home" title="At Home">
+            <div><img class="art" src="http://f0.bcbits.com/img/a0832927316_8.jpg"></div>
+            <div class="itemtext">At Home</div>
+        
+            <div class="itemsubtext">Louie Zong</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://meeksummit.bandcamp.com/track/wind-bird" title="Wind, Bird">
+            <div><img class="art" src="http://f0.bcbits.com/img/a0926056728_8.jpg"></div>
+            <div class="itemtext">Wind, Bird</div>
+        
+            <div class="itemsubtext">Meek Summit</div>
+        
+        </a>
+</li><li class="item">
+    
+
+
+        <a href="http://stevendreams.bandcamp.com/album/mountain-blood-demo" title="MOUNTAIN BLOOD DEMO">
+            <div><img class="art" src="http://f0.bcbits.com/img/a1838943479_8.jpg"></div>
+            <div class="itemtext">MOUNTAIN BLOOD DEMO</div>
+        
+            <div class="itemsubtext">STEVEN DREAMS</div>
+        
+        </a>
+</li>
+                </ul>
+                </div>
+
+                <style type="text/css">
+                    .pager {
+                        font-size: 0.8em;
+                    }
+
+                    .pager .pagenum {
+                        display: inline-block;
+                        color: #0687F5;
+                        padding: 2.5px 4px;
+                    }
+                    .pager .pagenum:hover {
+                        background: #cccccc;
+                    }
+                    .pager .selected {
+                        background: #cccccc;
+                    }
+                    .pager .nextprev {
+                        display: inline-block;
+                    }
+                    .ieLte7 .pager .nextprev {
+                        display: inline;
+                    }
+                    .pager .prev {
+                        padding: 2.5px 4px;
+                    }
+                    .pager .next {
+                        padding: 2.5px 4px;
+                    }
+                    .pager .ellip {
+                        font-size: 2em;
+                    }
+                    .pager .pagelist {
+                        margin: 0 0 0 8px;
+                    }
+                    .pager ul {
+                        display: inline;
+                        padding: 0;
+                    }
+                    .pager li {
+                        display: inline-block;
+                        margin: 0 8px 0 0;
+                    }
+                    .ieLte7 .pager li {
+                        display: inline;
+                    }
+                    .pager .chosen {
+                        background: #cccccc;
+                    }
+
+
+                </style>
+                
+                    <div class="pager_controls">
+                        
+                        <div class="pager" style="color: #dddddd;">
+                        
+                            
+                                <span class="nextprev prev">
+                                
+                                « Previous
+                                
+                                </span>
+                                <ul class="pagelist">
+                            
+                        
+                            
+                                
+                                <li><span class="pagenum chosen">1</span></li>
+                                
+                            
+                        
+                            
+                                
+                                <li><a href="?page=2&amp;sort_field=date" rel="nofollow"><span class="pagenum">2</span></a></li>
+                                
+                            
+                        
+                            
+                                
+                                <li><a href="?page=3&amp;sort_field=date" rel="nofollow"><span class="pagenum">3</span></a></li>
+                                
+                            
+                        
+                            
+                                
+                                <li><a href="?page=4&amp;sort_field=date" rel="nofollow"><span class="pagenum">4</span></a></li>
+                                
+                            
+                        
+                            
+                                
+                                <li><a href="?page=5&amp;sort_field=date" rel="nofollow"><span class="pagenum">5</span></a></li>
+                                
+                            
+                        
+                            
+                                
+                                <li><a href="?page=6&amp;sort_field=date" rel="nofollow"><span class="pagenum">6</span></a></li>
+                                
+                            
+                        
+                            
+                                
+                                <li><a href="?page=7&amp;sort_field=date" rel="nofollow"><span class="pagenum">7</span></a></li>
+                                
+                            
+                        
+                            
+                                
+                                <li><a href="?page=8&amp;sort_field=date" rel="nofollow"><span class="pagenum">8</span></a></li>
+                                
+                            
+                        
+                            
+                                
+                                <li><a href="?page=9&amp;sort_field=date" rel="nofollow"><span class="pagenum">9</span></a></li>
+                                
+                            
+                        
+                            
+                                
+                                <li><a href="?page=10&amp;sort_field=date" rel="nofollow"><span class="pagenum">10</span></a></li>
+                                
+                            
+                        
+                            
+                                </ul>
+                                <span class="nextprev next">
+                                
+                                <a href="?page=2&amp;sort_field=date" rel="nofollow">
+                                
+                                Next »
+                                
+                                </a>
+                                
+                                </span>
+                            
+                        
+                        </div>
+                    </div>
+                
+            </div>
+    </div><div class="rightcolumn box">
+        
+
+        
+        <div class="related divider">
+            <div class="heading">
+                <h2>related tags</h2>
+            </div>
+            <div class="related_tag_cloud">
+            
+                <a class="related_tag" href="/tag/indie?from=related" rel="nofollow">indie</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/rock?from=related" rel="nofollow">Rock</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/united-states?from=related" rel="nofollow">United States</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/r-b?from=related" rel="nofollow">r&amp;b</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/indie-pop?from=related" rel="nofollow">indie pop</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/pop?from=related" rel="nofollow">pop</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/soul?from=related" rel="nofollow">soul</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/folk?from=related" rel="nofollow">Folk</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/alternative?from=related" rel="nofollow">alternative</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/california?from=related" rel="nofollow">California</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/united-kingdom?from=related" rel="nofollow">United Kingdom</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/acoustic?from=related" rel="nofollow">acoustic</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/new-york?from=related" rel="nofollow">New York</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/canada?from=related" rel="nofollow">Canada</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/hip-hop?from=related" rel="nofollow">hip hop</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/usa?from=related" rel="nofollow">USA</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/electronic?from=related" rel="nofollow">electronic</a>&nbsp;&nbsp;
+            
+                <a class="related_tag" href="/tag/rap?from=related" rel="nofollow">rap</a>&nbsp;&nbsp;
+            
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+            <div style="clear:both"></div>
+        </div>
+        
+            <div id="pgFt">
+            
+                <div id="pgFt-inner" class="pgft-desktop">
+
+    <div id="footer-logo-wrapper">
+    
+        <a id="footer-logo" href="http://bandcamp.com?from=logo" ><span class="hiddenAccess">Bandcamp</span></a>
+    
+        <span class="webapp-selector-ui" style="display:none"></span>
+    </div>
+    
+    <ul id="legal" class="horizNav">
+        
+        <li id="login"><a href="https://bandcamp.com/login"><span id="login-artist">artist </span>log in</a></li>
+        
+        <li><a href="http://bandcamp.com/terms_of_use">terms of use</a></li>
+        <li><a href="http://bandcamp.com/privacy">privacy</a></li>
+        <li><a href="http://bandcamp.com/copyright">copyright policy</a></li>
+        
+            
+        
+        
+        
+    </ul>
+    <span class="static-content">&nbsp;</span>
+
+</div>
+
+
+            
+            </div>
+        
+    </div>
+</div>
+
+
+<script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/global_foot1_bundle_e744235ea83ba7ad588c4b628c703ce9.js"></script>
+<script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/global_foot2_bundle_c28aad0bd3da8f205ceeee06952cd0aa.js"></script>
+
+
+
+
+<script type="text/javascript">
+    
+    JSLoader.writeScriptTags( "foot" );
+    
+</script>    
+
+
+
+
+
+<script type="text/javascript">
+    
+    
+
+    Dom.initActiveElement();
+</script>
+
+
+
+<script type="text/javascript">
+    (function() {
+
+        Y.util.Event.onDOMReady( function() {
+            Control.handleDomReady();
+            FieldHints.init();
+            Dom.scrollToParamElt();
+        });
+
+    })();
+    
+</script>
+
+
+
+<script type="text/javascript">
+if (!isDebug) {
+    var _gaq = _gaq || [];
+    var _qevents = _qevents || [];
+
+    (function() {
+        var doc = document, isHttps = ('https:' == doc.location.protocol);
+        function loadScript(src) {
+            var n = doc.createElement('script'), s = doc.getElementsByTagName('script')[0]; 
+            n.type = 'text/javascript'; n.async = true; n.src = src;
+            s.parentNode.insertBefore(n, s);            
+        }
+
+        
+        _gaq.push(
+            ['_setAccount', 'UA-4189134-2'],
+            ['_setDomainName', 'bandcamp.com'], 
+            ['_setAllowAnchor', true],
+            ['_trackPageview']
+        
+        );
+        loadScript((isHttps ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js');
+
+        
+        _qevents.push({qacct:'p-0207-dhLCDgvg'});
+        loadScript((isHttps ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js');
+    })();
+}
+</script>
+<noscript>
+    <div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-0207-dhLCDgvg.gif" border="0" height="1" width="1" alt=""></div>
+</noscript>
+ 
+
+</body>
+</html>
+<!-- bender02-4 Thu Nov 21 14:20:35 UTC 2013 -->
+
+<!-- CACHE Thu Nov 21 14:20:36 UTC 2013 5b260b18cf7d7a0de103357d66db1c0f 2 32807 15 ---1--X-false- http /tag/pop sort_field date -->
+<!-- SRSLY Thu Nov 21 15:47:25 UTC 2013 bender01-3 -->

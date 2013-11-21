@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>prueba</title>
+<link href='http://fonts.googleapis.com/css?family=Ribeye' rel='stylesheet' type='text/css'>
+<style type="text/css">
+			
+body{
+				background-color:#C45008;
+				
+font-family: 'Piedra', cursive;			
+			
+}
+
+#borde{
+	background-color:#C45008;
+	height: 60px;
+}
+table{
+	font-family: 'Ribeye', cursive;
+	background-color:#FDFFFF;
+	padding: 200px;
+	border-top-style: ridge;
+  border-right-style: ridge;
+  border-bottom-style: ridge;
+  border-left-style: ridge;}
+		</style>
+
+</head>
+<body>
+<form action="/form" method="post">
+<div id="borde" ALIGN=center></div>
+<table ALIGN=center>
+<tr><td></td><td  ALIGN=center><font color=EB3E09><h1>Busqueda en Bandcamp</h1></td><td></td><td></td></tr>
+<tr><td bgcolor="white"><font color="white"> hola</td></tr>
+<tr><td> </td></tr>
+<tr>
+	<td></td><td ALIGN=center><input type="text" name="message" size="30" placeholder="Buscar por etiquetas" name"message"><input type="submit" value="Buscar"></td><td></td><td></td>
+</tr>
+</table>
+</form>
+<form action="/form1>holala</form>
+</body>
+</html>
+
